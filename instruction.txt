@@ -1,0 +1,5 @@
+Ce répertoire contient des instances pour le problème de l'arbre couvrant de poids minimum.
+
+Pour chacun des fichiers, vous avez sur la première ligne le nombre de sommets et le nombre d'arêtes du graphe.
+
+Ensuite pour chaque arête (une par ligne) vous avez le numéro des sommets correspondant aux extrémités de l'arête puis le coût de l'arête
